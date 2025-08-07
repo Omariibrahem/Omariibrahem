@@ -57,10 +57,7 @@ I'm a passionate and committed Cloud Engineer in training, with hands-on experie
   <a href="https://www.linkedin.com/in/omar-ibrahem-687929217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="mailto:omariibrahem24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    - 📧 **Email**: [omariibrahem24@gmail.com](mailto:omariibrahem24@gmail.com)
+    - 📧 Email: omariibrahem24@gmail.com
   </a>
 </p>
 
