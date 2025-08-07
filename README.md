@@ -32,9 +32,9 @@ I'm a passionate and curious Cloud Engineer in training, committed to learning a
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://logowik.com/content/uploads/images/ansible3554.jpg" height="40" alt="Linux" />
   &nbsp;
-  <img src="https://www.svgrepo.com/show/354431/terraform-icon.svg" height="40" alt="Terraform" />
+  <img src="https://www.svgrepo.com/show/354431/terraform-icon.svg" height="40" alt="Ansible" />
 </p>
 
 ### 🐍 Scripting & Programming
