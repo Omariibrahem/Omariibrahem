@@ -53,15 +53,16 @@ I'm a passionate and committed Cloud Engineer in training, with hands-on experie
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/omar-ibrahem-687929217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:omariibrahem24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+---
 
 > 🧠 *"Always learning, always building — one script, one deployment at a time."*
 
