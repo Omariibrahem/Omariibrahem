@@ -1,67 +1,75 @@
 <h1 align="center">Hi 👋, I'm Omar Ibrahem</h1>
-<h3 align="center">🚀 Cloud & DevOps Enthusiast | Intern @ Konecta & BARQ | Instructor @ DECI & Malvern | GCP & OCI Certified | Deloitte Mentee</h3>
+<h3 align="center">🌩️ Cloud & DevOps Enthusiast | Intern @ Konecta & BARQ | Instructor @ DECI & Malvern | GCP & OCI Certified | Deloitte Mentee</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💡 **Aspiring Cloud Engineer**, passionate about cloud-native technologies, automation, and system reliability.
-- 🎓 **Certified**: Google Cloud (GCP) | Oracle Cloud (OCI) | Azure Solution Architect (DEPI Program)
-- 📚 **Currently:**  
-  - Intern @ **Konecta** and **BARQ**  
-  - Instructor @ **DECI (Digital Egypt Cubs Initiative)** & **Malvern Homeschooling**  
-  - Mentee in **Deloitte Cloud & DevOps Mentorship Program**
-- 🛠️ Building real-world solutions using Terraform, Docker, Linux, Git, and Python.
-- 🛰️ Past Internships: Orange Business Services | Systel
+I'm a passionate and curious Cloud Engineer in training, committed to learning and building modern, scalable cloud infrastructure using DevOps tools and best practices.
+
+- 🌍 Currently interning at **Konecta** and **BARQ**
+- 👨‍🏫 Instructor at **DECI (Digital Egypt Cubs Initiative)** & **Malvern Homeschooling**
+- 🎓 **Cloud & DevOps Mentee @ Deloitte**
+- 🧠 **GCP & OCI Certified** | Azure Solution Architect (DEPI Program)
+- 💼 Ex-intern at **Orange Business Services** & **Systel**
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 🚀 Skills & Tools
 
 ### ☁️ Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCI-E60000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="OCI" />
 </p>
 
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### 🛠️ DevOps Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  &nbsp;
+  <img src="https://www.svgrepo.com/show/354431/terraform-icon.svg" height="40" alt="Terraform" />
 </p>
 
-### 🐍 Scripting & Languages
-<p>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### 🐍 Scripting & Programming
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omaribrahem24&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaribrahem24&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omaribrahem24&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaribrahem24&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/omaribrahem24/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+    &nbsp;LinkedIn
   </a>
-  <a href="mailto:omariibrahem24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <br />
+  <a href="mailto:omariibrahem24@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail" />
+    &nbsp;Gmail
   </a>
 </p>
 
 ---
 
-> 🧠 "Always learning, always building — one script, one deployment at a time."
+> 🧠 *"Always learning, always building — one script, one deployment at a time."*
 
