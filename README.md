@@ -60,8 +60,10 @@ I'm a passionate and committed Cloud Engineer in training, with hands-on experie
   &nbsp;
   <a href="mailto:omariibrahem24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    - 📧 **Email**: [omariibrahem24@gmail.com](mailto:omariibrahem24@gmail.com)
   </a>
 </p>
+
 
 ---
 
