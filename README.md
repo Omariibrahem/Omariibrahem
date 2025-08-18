@@ -37,7 +37,7 @@ I'm a passionate and committed Cloud Engineer in training, with hands-on experie
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernates/kubernates-original.svg" height="40" alt="Kubernates" />
+<img src="https://pin.it/6qytudcoh" height="40" alt="Kubernates" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 
