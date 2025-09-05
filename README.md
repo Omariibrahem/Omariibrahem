@@ -6,7 +6,7 @@ Cloud & DevOps Enthusiast | Intern @ Konecta & BARQ | Instructor @ DECI & Malver
 
 ## 🧑‍💻 About Me
 
-I'm a passionate and committed Cloud Engineer in training, with hands-on experience across multiple cloud providers and DevOps tools. I thrive on solving infrastructure challenges, learning continuously, and sharing knowledge with others.
+I'm a passionate and committed Cloud & DevOps Engineer, with hands-on experience across multiple cloud providers and DevOps tools. I thrive on solving infrastructure challenges, learning continuously, and sharing knowledge with others.
 
 - 💼 Intern at **Konecta** & **BARQ**
 - 👨‍🏫 Instructor at **DECI (Digital Egypt Cubs Initiative)** & **Malvern Homeschooling**
