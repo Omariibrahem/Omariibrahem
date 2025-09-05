@@ -44,8 +44,6 @@ I'm a passionate and committed Cloud Engineer in training, with hands-on experie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="Helm" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/istio/istio-original.svg" height="40" alt="Istio" />
 </p>
 
 
