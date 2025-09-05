@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Ibrahem</h1>
-<h3 align="center">
+
 Cloud & DevOps Enthusiast | Intern @ Konecta & BARQ | Instructor @ DECI & Malvern | GCP & OCI Certified | Deloitte Mentee
 </h3>
 
